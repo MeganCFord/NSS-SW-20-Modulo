@@ -28,7 +28,7 @@ cd 20-challenge-4
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-20-Modulo)
 
 
 ![screenshot](modulo-screenshot.jpg)
